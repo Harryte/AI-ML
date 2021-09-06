@@ -1,0 +1,107 @@
+﻿country,region,population,primary_language
+ Australia,Oceania,25795700,Yes
+ New Zealand[1],Oceania,4893830,Yes
+ United Kingdom,Europe,66040229,Yes
+ United States,North America,328239523,Yes
+ Antigua and Barbuda[2],Caribbean,85000,Yes
+ Bahamas[2],Caribbean,331000,Yes
+ Barbados[3],Caribbean,294000,Yes
+ Belize[4],Central America,288000,Yes
+ Botswana[4],Africa,1882000,Yes
+ Burundi[5],Africa,10114505,No
+ Cameroon[2],Africa,22534532,No
+ Canada,North America,38048738,Yes (except Quebec)
+ Dominica[2],Caribbean,73000,Yes
+ Eswatini[2],Africa,1141000,No
+ Fiji[2],Oceania,828000,"Yes (used as lingua franca, mostly and widely spoken, educational, commerce, and government)"
+ Gambia[2],Africa,1709000,Yes
+ Ghana[2],Africa,27000000,Yes (used as lingua franca)
+ Grenada[2],Caribbean,111000,Yes (except for small French Creole population)
+ Guyana[6],South America,738000,Yes
+ India[4][7],Asia,1247540000,"No (used as lingua franca, mostly and widely spoken, educational, commerce, and government)"
+ Ireland[8][9],Europe,4900000,Yes (Irish is co-official)
+ Jamaica[10],Caribbean,2714000,Yes
+ Kenya[2],Africa,45010056,Yes (in business and education)
+ Kiribati[2],Oceania,95000,No
+ Lesotho[2],Africa,2008000,No
+ Liberia[2],Africa,3750000,Yes
+ Malawi[11],Africa,16407000,Yes
+ Malta[2],Europe,430000,No (but official and in business / education)
+ Marshall Islands[2],Oceania,59000,No
+ Micronesia[2],Oceania,110000,Yes
+ Namibia[2],Africa,2074000,No (used as lingua franca)
+ Nauru[12],Oceania,10000,No (but widely spoken)
+ Nigeria[2][13],Africa,182202000,Yes (used as lingua franca)
+ Pakistan[2],Asia,212742631,No (but official and educational)
+ Palau[4],Oceania,20000,No
+ Papua New Guinea[14][15],Oceania,7059653,Yes
+ Philippines,Asia,110864327,No (but official and educational)
+ Saint Kitts and Nevis[16],Caribbean,50000,Yes
+ Saint Lucia[2],Caribbean,165000,Yes
+ Saint Vincent and the Grenadines[17],Caribbean,120000,Yes
+ Samoa[18],Oceania,188000,No
+ Seychelles[2],Africa / Indian Ocean,87000,No
+ Sierra Leone[2],Africa,6190280,Yes
+ Singapore,Asia,5469700,"Yes (lingua franca, mostly and widely spoken, and educational)"
+ Solomon Islands[2],Oceania,507000,Yes
+ South Africa[19],Africa,54956900,"Yes (and official, educational and lingua franca in formal economy)"
+ South Sudan[20],Africa,12340000,Yes
+ Sudan[2],Africa,40235000,No
+ Tanzania[2],Africa,51820000,No
+ Tonga[21],Oceania,100000,No
+ Trinidad and Tobago[2],Caribbean,1333000,Yes
+ Tuvalu[4],Oceania,11000,No
+ Vanuatu[22],Oceania,226000,No
+ Zambia[2],Africa,16212000,Yes
+ Zimbabwe[2],Africa,13061239,No (used as lingua franca)
+ Bahrain[23][24],Asia / Middle East,1378000,No
+ Bangladesh[25],Asia,150039000,No
+ Brunei[26],Asia,415717,No
+ Cambodia[27],Asia,15288489,No
+ Cyprus[28],Europe / Asia / Middle East,1141166,No
+ Eritrea[2],Africa,6234000,No
+ Ethiopia[2],Africa,85000000,No
+ Israel[29][30][31],Asia / Middle East,8051200,No
+ Jordan[32],Asia / Middle East,9882401,No
+ Kuwait[33],Asia / Middle East,4348395,No
+ Malaysia,Asia,32730000,No
+ Maldives[34],Asia,427756,No
+ Mauritius[2],Africa / Indian Ocean,1262000,No
+ Myanmar[35],Asia,51486253,No
+ Oman[36],Asia / Middle East,4424762,No
+ Qatar[37],Asia / Middle East,2675522,No
+ Rwanda,Africa,13240439,No
+ Sri Lanka[38][39],Asia,20277597,No
+ Uganda,Africa,47053690,No
+ United Arab Emirates[40],Asia / Middle East,5779760,No
+ Akrotiri and Dhekelia,Europe,15700,No
+ American Samoa11,Oceania,67700,Yes (along with Samoan)
+ Anguilla[2],Caribbean,18090,Yes
+ Bermuda9[2],North America,65000,Yes
+ British Virgin Islands[2],Caribbean,23000,Yes
+ Cayman Islands[4],Caribbean,47000,Yes
+ Cook Islands[2]14,Oceania,20000,Yes
+ Curaçao[41],Caribbean,150563,No
+ Falkland Islands,South Atlantic,3000,Yes
+ Gibraltar[2],Europe,33000,Yes
+ Guam4,Oceania,173000,Yes
+ Hong Kong2[2],Asia,7097600,No (but de jure and de facto co-official with Chinese[42])
+ Isle of Man8,Europe,80058,Yes
+ Jersey6[2],Europe,89300,Yes
+ Niue[2]14,Oceania,1600,No
+ Norfolk Island[2],Australia,1828,Yes
+ Northern Mariana Islands7,Oceania,53883,No
+ Pitcairn Islands13[2],Oceania,50,Yes
+ Puerto Rico3,Caribbean,3991000,No (co-official with Spanish as the primary language)
+ Rotuma,Oceania,1594,No
+ Sint Maarten[43],Caribbean,40900,Yes
+ Turks and Caicos Islands[2],Caribbean,26000,Yes
+ U.S. Virgin Islands5,Caribbean,111000,Yes
+ British Indian Ocean Territory,Indian Ocean,3000,Yes
+ Guernsey10,Europe,61811,Yes
+ Montserrat[2],Caribbean,5900,Yes
+" Saint Helena, Ascension and Tristan da Cunha[4]",South Atlantic,5660,Yes
+ Christmas Island12[2],Australia,1508,Yes
+ Cocos (Keeling) Islands16[2],Australia,596,Yes
+ Macau[44],Asia,696100,Yes
+ Tokelau[45],Oceania,1400,Yes

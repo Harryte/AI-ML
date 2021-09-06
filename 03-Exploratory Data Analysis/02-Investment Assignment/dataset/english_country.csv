@@ -1,0 +1,107 @@
+,country,region,population,primary_language
+0, Australia,Oceania,25795700,True
+1, New Zealand,Oceania,4893830,True
+2, United Kingdom,Europe,66040229,True
+3, United States,North America,328239523,True
+4, Antigua and Barbuda,Caribbean,85000,True
+5, Bahamas,Caribbean,331000,True
+6, Barbados,Caribbean,294000,True
+7, Belize,Central America,288000,True
+8, Botswana,Africa,1882000,True
+9, Burundi,Africa,10114505,False
+10, Cameroon,Africa,22534532,False
+11, Canada,North America,38048738,True
+12, Dominica,Caribbean,73000,True
+13, Eswatini,Africa,1141000,False
+14, Fiji,Oceania,828000,True
+15, Gambia,Africa,1709000,True
+16, Ghana,Africa,27000000,True
+17, Grenada,Caribbean,111000,True
+18, Guyana,South America,738000,True
+19, India,Asia,1247540000,False
+20, Ireland,Europe,4900000,True
+21, Jamaica,Caribbean,2714000,True
+22, Kenya,Africa,45010056,True
+23, Kiribati,Oceania,95000,False
+24, Lesotho,Africa,2008000,False
+25, Liberia,Africa,3750000,True
+26, Malawi,Africa,16407000,True
+27, Malta,Europe,430000,False
+28, Marshall Islands,Oceania,59000,False
+29, Micronesia,Oceania,110000,True
+30, Namibia,Africa,2074000,False
+31, Nauru,Oceania,10000,False
+32, Nigeria,Africa,182202000,True
+33, Pakistan,Asia,212742631,False
+34, Palau,Oceania,20000,False
+35, Papua New Guinea,Oceania,7059653,True
+36, Philippines,Asia,110864327,False
+37, Saint Kitts and Nevis,Caribbean,50000,True
+38, Saint Lucia,Caribbean,165000,True
+39, Saint Vincent and the Grenadines,Caribbean,120000,True
+40, Samoa,Oceania,188000,False
+41, Seychelles,Africa / Indian Ocean,87000,False
+42, Sierra Leone,Africa,6190280,True
+43, Singapore,Asia,5469700,True
+44, Solomon Islands,Oceania,507000,True
+45, South Africa,Africa,54956900,True
+46, South Sudan,Africa,12340000,True
+47, Sudan,Africa,40235000,False
+48, Tanzania,Africa,51820000,False
+49, Tonga,Oceania,100000,False
+50, Trinidad and Tobago,Caribbean,1333000,True
+51, Tuvalu,Oceania,11000,False
+52, Vanuatu,Oceania,226000,False
+53, Zambia,Africa,16212000,True
+54, Zimbabwe,Africa,13061239,False
+55, Bahrain,Asia / Middle East,1378000,False
+56, Bangladesh,Asia,150039000,False
+57, Brunei,Asia,415717,False
+58, Cambodia,Asia,15288489,False
+59, Cyprus,Europe / Asia / Middle East,1141166,False
+60, Eritrea,Africa,6234000,False
+61, Ethiopia,Africa,85000000,False
+62, Israel,Asia / Middle East,8051200,False
+63, Jordan,Asia / Middle East,9882401,False
+64, Kuwait,Asia / Middle East,4348395,False
+65, Malaysia,Asia,32730000,False
+66, Maldives,Asia,427756,False
+67, Mauritius,Africa / Indian Ocean,1262000,False
+68, Myanmar,Asia,51486253,False
+69, Oman,Asia / Middle East,4424762,False
+70, Qatar,Asia / Middle East,2675522,False
+71, Rwanda,Africa,13240439,False
+72, Sri Lanka,Asia,20277597,False
+73, Uganda,Africa,47053690,False
+74, United Arab Emirates,Asia / Middle East,5779760,False
+75, Akrotiri and Dhekelia,Europe,15700,False
+76, American Samoa,Oceania,67700,True
+77, Anguilla,Caribbean,18090,True
+78, Bermuda,North America,65000,True
+79, British Virgin Islands,Caribbean,23000,True
+80, Cayman Islands,Caribbean,47000,True
+81, Cook Islands,Oceania,20000,True
+82, Curaçao,Caribbean,150563,False
+83, Falkland Islands,South Atlantic,3000,True
+84, Gibraltar,Europe,33000,True
+85, Guam,Oceania,173000,True
+86, Hong Kong,Asia,7097600,False
+87, Isle of Man,Europe,80058,True
+88, Jersey,Europe,89300,True
+89, Niue,Oceania,1600,False
+90, Norfolk Island,Australia,1828,True
+91, Northern Mariana Islands,Oceania,53883,False
+92, Pitcairn Islands,Oceania,50,True
+93, Puerto Rico,Caribbean,3991000,False
+94, Rotuma,Oceania,1594,False
+95, Sint Maarten,Caribbean,40900,True
+96, Turks and Caicos Islands,Caribbean,26000,True
+97, U.S. Virgin Islands,Caribbean,111000,True
+98, British Indian Ocean Territory,Indian Ocean,3000,True
+99, Guernsey,Europe,61811,True
+100, Montserrat,Caribbean,5900,True
+101," Saint Helena, Ascension and Tristan da Cunha",South Atlantic,5660,True
+102, Christmas Island,Australia,1508,True
+103, Cocos (Keeling) Islands,Australia,596,True
+104, Macau,Asia,696100,True
+105, Tokelau,Oceania,1400,True
